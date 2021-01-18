@@ -1,8 +1,8 @@
-# node README file generating command line app.
+# ReadMe Generator
 
 ## Description
 
-An application built with Node and the NPM inquirer, Built to quickly create readme files by creating the markdown.
+This tool creates a README file for projects. It uses inquirer to take inputs from the command line and creates a nicely looking readme with a table of contents.
 
 ## Table of Contents (Optional)
 
@@ -15,15 +15,15 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-node (NPM)
+Node and NPM Inquirer
 
 ## Usage
 
-used to make a professional README for any current developer projects
+Used to create ReadME files for projects
 
 ## Credits
 
-ZTF
+Zac Farnworth
 
 ## License
 
@@ -31,8 +31,14 @@ MIT
 
 ## Badges
 
-NPM
+open source
 
 ## Contributing
 
+Github
+
 ## Tests
+
+View this file and run node index.js js in the develop folder of the repo:
+See Screencast for example:
+https://drive.google.com/file/d/1z8K1wCkomLkGpPZLSVDfvhzuh6ciK06y/view?usp=sharing
